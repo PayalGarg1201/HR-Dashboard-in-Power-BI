@@ -13,3 +13,28 @@ Trying to answer the below question and prepared dynamic HR Dasboard using Power
 8.  Employee Filter by starting Letter.
 9.  Leave Balance Analysis.
 10. Final HR Dashboard.
+
+
+
+
+
+
+<img width="716" alt="image" src="https://github.com/PayalGarg1201/HR-Dashboard-in-Power-BI/assets/133757186/5f42b8a8-0c22-4fb8-a8a8-4f8703f97dab">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
