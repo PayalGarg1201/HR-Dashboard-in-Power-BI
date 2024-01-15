@@ -1,7 +1,7 @@
 # HR-Dashboard-in-Power-BI
 HR Analytics
 
-Trying to answer the below question and prepared dynamic HR Dasboard using Power BI.
+Trying to answer the below question and prepared dynamic HR Dashboard using Power BI.
 
 1.  How many people are in  each Job ? 
 2.  Gender Break Down of the stuff ? 
